@@ -1,0 +1,2 @@
+# codigo-QR
+CREACION DE CODIGO
